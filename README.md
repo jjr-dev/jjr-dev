@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, me chamo Julimar Jr</h1>
-<p align="center">Sou de Florianópolis, Brasil 🏖️</p>
+<p align="center">Sou de São Paulo, Brasil 🏖️</p>
 
 ---
 
